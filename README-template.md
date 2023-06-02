@@ -39,8 +39,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [See mysolution URL here](https://github.com/gladstone28/rose-Design-to-code-FEM)
+- Live Site URL: [Seee mylive site URL here](https://gladstone28.github.io/rose-Design-to-code-FEM/)
 
 ## My process
 
@@ -86,9 +86,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 2](https://www.codecademy.com) - This is a great site to learn coding.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+
 
 ## Author
 
